@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Billboard Chart</string>
+    <string-array name="categories">
+        <item>Hot 100</item>
+        <item>Billboard 200</item>
+        <item>Artist 100</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
